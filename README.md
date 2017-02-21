@@ -1,6 +1,6 @@
 # javaee6war
 
-h2. Schnelles IDEA + Weblogic Beispiel
+## Schnelles IDEA + Weblogic Beispiel
 
 - weblogic-maven-plugin muss aktiviert werden: http://docs.oracle.com/cd/E21764_01/web.1111/e13702/maven_deployer.htm#DEPGD379
 - remote-deployment via Kommandozeile funktioniert (siehe Profile)
